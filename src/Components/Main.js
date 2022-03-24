@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Title = styled.h1`
   background-color: black;
   color: cadetblue;
-  width: 25%;
+  width: 27%;
   font-size: 40px;
 `;
 
